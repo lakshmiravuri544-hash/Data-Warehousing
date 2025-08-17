@@ -7,21 +7,21 @@ A full video walkthrough of this project is available [here](https://youtu.be/NA
 ---
 
 ## Quick Links
-- [Crime dataset (Excel)](#crime-dataset-dwxlsx)  
-- [Crime dataset (CSV)](#crimes--2015_20231013csv)  
-- [Data Warehouse dataset](#dw_datasetxlsx)  
-- [Video Tutorial](#video-tutorial)  
+- [Crime dataset (Excel)](#crime-dataset-dw.xlsx)  
+- [Crime dataset (CSV)](#crimes--2015_20231013.csv)  
+- [Data Warehouse dataset](#dw_dataset.xlsx)  
+- [Video Tutorial](https://youtu.be/NAQQjGHj9Xo) 
 
 ---
 
 ## Repository Structure
-
+```
 Data-Warehousing/
 ├── Crime dataset DW.xlsx # Original Excel dataset
 ├── Crimes_-_2015_20231013.csv # CSV version of crime data
 ├── DW_dataset.xlsx # Data warehouse dataset
 └── README.md # This file
-
+```
 yaml
 Copy
 Edit
@@ -65,7 +65,3 @@ This project is for educational purposes.
 Author
 Lakshmi Ravuri
 GitHub: lakshmiravuri544-hash
-
-pgsql
-Copy
-Edit
